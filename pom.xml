@@ -149,7 +149,7 @@ LICENSE file.
     <solr7.version>7.7.2</solr7.version>
     <tarantool.version>1.6.5</tarantool.version>
     <thrift.version>0.8.0</thrift.version>
-    <tablestore.version>4.8.0</tablestore.version>
+    <tablestore.version>5.17.6</tablestore.version>
     <voltdb.version>10.1.1</voltdb.version>
     <zookeeper.version>3.5.8</zookeeper.version>
   </properties>
